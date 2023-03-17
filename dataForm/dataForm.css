@@ -87,9 +87,11 @@ and (max-device-width : 480px) {
 
     .company_input > input{
         margin-top: 5px;
+        width: 100%;
     }
 
     .output > input{
         width: 100%;
+        min-width: 200px;
     }
 }
